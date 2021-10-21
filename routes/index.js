@@ -49,6 +49,4 @@ router.get('/find-assign-teacher',adminController.findAssignTeacherClassId)
 
 
 
-
-
 export default router;

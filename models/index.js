@@ -1,6 +1,5 @@
 export {default as Classes} from './classes'
 export {default as Teacher} from './teacher'
-export {default as Parent} from './parent'
 export {default as Student} from './student'
 export {default as AssignTeacher} from './assignTeacher'
 export {default as Attendance} from './attendance'
